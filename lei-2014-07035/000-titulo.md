@@ -1,0 +1,3 @@
+# LEI N° 7035 INSTITUI A POLÍTICA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL - PMSAN.
+O Prefeito do Município de Cachoeiro de Itapemirim, no uso das atribuições legais, e tendo em vista o interesse do Município em aderir ao Sistema Nacional/Estadual de Segurança Alimentar e Nutricional, onde estabelece os parâmetros para a elaboração do Plano Municipal de Segurança Alimentar e Nutricional - PLAMSAN, o disposto no art. 6o, da Constituição Federal, art. 2o da Lei Federal no 11.346, de 15 de setembro de 2006, assim como, art 2º da Lei Complementar Estadual nº 609, de 08 de dezembro de 2011, faço saber que a Câmara dos Vereadores aprovou e eu sanciono a seguinte Lei:
+LEI MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
