@@ -1,0 +1,2 @@
+# LEI Nº 7493 DISPÕE SOBRE DENOMINAÇÃO DE VIA PÚBLICA.
+A CÂMARA MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM, Estado do Espírito Santo, APROVA e o Prefeito Municipal SANCIONA a seguinte Lei:
