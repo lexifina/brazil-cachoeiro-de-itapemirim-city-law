@@ -1,0 +1,2 @@
+# LEI Nº 7554/2018 Dispõe sobre a utilização dos equipamentos públicos na proteção da criança e do adolescente, e veda o apoio e uso de recurso público em práticas que importem induzimento ou instigação de terceiros ao uso indevido de drogas ou à prática de crimes contra a dignidade sexual e/ou que tenham mensagens nocivas ou atentatórias à moral pública, e dá outras providências.
+O Presidente da Câmara Municipal de Cachoeiro de Itapemirim, no uso de suas atribuições legais, PROMULGA a seguinte Lei:
