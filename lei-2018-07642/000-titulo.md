@@ -1,0 +1,2 @@
+# LEI Nº 7642 DISPÕE SOBRE A ALTERAÇÃO DOS ARTIGOS 22, 23, 24, 25 E 27 DA LEI N° 7227, DE 02 DE JULHO DE 2015 - CÓDIGO MUNICIPAL DE POSTURAS DO MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM, no uso de suas atribuições legais, que lhe são conferidas pelos incisos III e IV do Art. 69 da Lei Orgânica Municipal, faz saber que a Câmara aprovou e sanciona a seguinte Lei:
