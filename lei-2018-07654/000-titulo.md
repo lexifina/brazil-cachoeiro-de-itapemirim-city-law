@@ -1,0 +1,2 @@
+# LEI Nº 7654 DISPÕE SOBRE AS NORMAS DE CONDUTA DOS SERVIDORES DA GUARDA CIVIL MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Cachoeiro de Itapemirim, Estado do Espírito Santo, APROVA e o Prefeito Municipal SANCIONA e PROMULGA a seguinte Lei:
