@@ -1,0 +1,2 @@
+# LEI N° 7740 AUTORIZA O PODER EXECUTIVO MUNICIPAL A FIRMAR CONTRATO DE CONCESSÃO DE USO DE ÁREA PÚBLICA NO MUNICÍPIO DE CACHOEIRO DE ITAPEMIRIM.
+A Câmara Municipal de Cachoeiro de Itapemirim, Estado do Espírito Santo, APROVA e o Prefeito Municipal SANCIONA a seguinte Lei:
