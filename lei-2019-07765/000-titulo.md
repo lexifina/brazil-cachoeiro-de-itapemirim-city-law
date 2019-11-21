@@ -1,0 +1,1 @@
+# LEI Nº 7765/2019 CONCEDE ABONO PECUNIÁRIO, NO MÊS DE DEZEMBRO DE 2019, AOS SERVIDORES PÚBLICOS DA CÂMARA MUNICIPAL DE CACHOEIRO DE ITAPEMIRIM-ES O Presidente da Câmara Municipal de Cachoeiro de Itapemirim, Estado do Espírito Santo, no uso de suas atribuições legais, faz saberque a Câmara PROMULGA a seguinte Lei:
