@@ -1,0 +1,2 @@
+# LEI Nº 7785 AUTORIZA O PODER EXECUTIVO A CONCEDER BOLSA DE FORMAÇÃO AOS PROFISSIONAIS DA SECRETARIA MUNICIPAL DE SAÚDE, VINCULADOS AO PROGRAMA DE QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA À SAÚDE.
+O Prefeito Municipal de Cachoeiro de Itapemirim, no uso de suas atribuições, faz saber que a Câmara Municipal APROVOU e SANCIONA a seguinte Lei:
