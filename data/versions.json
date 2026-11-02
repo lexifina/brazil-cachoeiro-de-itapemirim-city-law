@@ -1,0 +1,1811 @@
+{
+ "country": "BR-ES-CACHOEIRO-DE-ITAPEMIRIM",
+ "acts": [
+  {
+   "slug": "lei-2020-07826",
+   "short": "Lei 7826/2020",
+   "title": "Lei nº 7.826, de 19 de maio de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1135",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2020/1135/lei_7826-2020.pdf",
+     "sha256": "177da575d84d0fb7c5a73be0d1a5274e62dc631fc03d51d6a8bb7250a6fa2e10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07819",
+   "short": "Lei 7819/2020",
+   "title": "Lei nº 7.819, de 19 de março de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1107",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 8,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2020/1107/lei_7819-2020.pdf",
+     "sha256": "6641c93ed93a3c7a0713a09e4a8a9f5dc45f174310d80687d74a2a1bf15d6176"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07796",
+   "short": "Lei 7796/2020",
+   "title": "Lei nº 7.796, de 23 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1069",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1069/diario_5974-23-_lei_7796.pdf",
+     "sha256": "d847fa5bfd60633dc99fd66b03ed4a7fd9bbe5d174375e837d7b7176fea7bddf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07792",
+   "short": "Lei 7792/2020",
+   "title": "Lei nº 7.792, de 23 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1068",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 10,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1068/diario_5974-23-_lei_7792.pdf",
+     "sha256": "dd7dea0e3b88bf273d5e282443469b238e0ad2298e71889b9bd4aba371815f7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07814",
+   "short": "Lei 7814/2020",
+   "title": "Lei nº 7.814, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1085",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1085/diario5983-09-7814.pdf",
+     "sha256": "08268c6c301d173d905b2a81a3646ac32c24d45810345430913e1251e4244eb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07813",
+   "short": "Lei 7813/2020",
+   "title": "Lei nº 7.813, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1084",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1084/diario5983-09-_lei_7813.pdf",
+     "sha256": "635e7f24b7591d96d1e30e2cacaeaa7d7e67dd1cacca9812f42f95819df4efc4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07812",
+   "short": "Lei 7812/2020",
+   "title": "Lei nº 7.812, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1083",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1083/diario5983-09-_lei_7812.pdf",
+     "sha256": "55ecc3b4c52866257be3e0d17fd47c2ac0ab3ae5da5aa45721eaed46689c5661"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07811",
+   "short": "Lei 7811/2020",
+   "title": "Lei nº 7.811, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1082",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1082/diario5983-09-_lei_7811.pdf",
+     "sha256": "61c8792b92f3847e96572e66c8c6845f8f508dc8c3b735528c1c305e19389bc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07810",
+   "short": "Lei 7810/2020",
+   "title": "Lei nº 7.810, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1081",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1081/diario5983-09-_lei_7810.pdf",
+     "sha256": "0b2818340f49e322afde75231e07a1b17c96f55327cc036014fd87971ebd21c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07809",
+   "short": "Lei 7809/2020",
+   "title": "Lei nº 7.809, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1080",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1080/diario5983-09-_lei_7809.pdf",
+     "sha256": "6c6f30a3906e033730774b3d00967257d0658050e3a07d414d224fdc21fb1ac7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-07808",
+   "short": "Lei 7808/2020",
+   "title": "Lei nº 7.808, de 7 de janeiro de 2020",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1079",
+   "versions": [
+    {
+     "from": "2020-01-09",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1079/diario5983-09-_lei_7808.pdf",
+     "sha256": "8f43b1387cbbc018f4d8111dd3ba896c39ca5521d1da18bfe75eb54b898ea515"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07803",
+   "short": "Lei 7803/2019",
+   "title": "Lei nº 7.803, de 30 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1074",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1074/diario5977-30aedicaoextraordinaria-_lei_7803.pdf",
+     "sha256": "5ecd348e0e8164e2908891cd84ff3c2d0a1aff523aab66cbb56ac3df942b2c5f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07798",
+   "short": "Lei 7798/2019",
+   "title": "Lei nº 7.798, de 19 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1071",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1071/diario_5974-23-_lei_no_7798.pdf",
+     "sha256": "b0f681307aa9d36d61a983df56d23de94d3cb3c4810f062b6307708d80ac9ff9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07795",
+   "short": "Lei 7795/2019",
+   "title": "Lei nº 7.795, de 19 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1065",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 16,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1065/diario5973-20-_lei_7795.pdf",
+     "sha256": "4892ff7b812c32a1f89e96466219b1088e5b5abd6ac27a0c728617de204fed90"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07788",
+   "short": "Lei 7788/2019",
+   "title": "Lei nº 7.788, de 18 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1061",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 39,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1061/diario5973-20-_lei_7788.pdf",
+     "sha256": "489a1e1009574ef759dfe7f664fef71a43144795bd5de83697f4d159b6e552bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07785",
+   "short": "Lei 7785/2019",
+   "title": "Lei nº 7.785, de 18 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1058",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1058/diario5972-19-_lei_7785.pdf",
+     "sha256": "011862fc0c9f1c0b69053c6334a2eb7cf266785af058e5b0722174afed48b663"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07784",
+   "short": "Lei 7784/2019",
+   "title": "Lei nº 7.784, de 18 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1057",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 9,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1057/diario5972-19-_lei_7784.pdf",
+     "sha256": "b8f546367abf62a38e075b9ae9af6f9eda750c89a67454872c34365fc6d238ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07782",
+   "short": "Lei 7782/2019",
+   "title": "Lei nº 7.782, de 18 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1055",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1055/diario5972-19-_lei_7782.pdf",
+     "sha256": "8ee616557bfc060e322f7d32f4017f7304a7a8fe5e2c63481c4a58581304ac6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07781",
+   "short": "Lei 7781/2019",
+   "title": "Lei nº 7.781, de 3 de dezembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1054",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1054/lei_7781.pdf",
+     "sha256": "86bbf23461be10f3a1fc71b12a04fc951bb611ba21937fc13170370266a08351"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07780",
+   "short": "Lei 7780/2019",
+   "title": "Lei nº 7.780, de 19 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1053",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1053/lei_7780.pdf",
+     "sha256": "d11f648ecb3993f0fc93c90187a6e4abff3601fdb4e060ccf9a3ecdadcfcd19a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07766",
+   "short": "Lei 7766/2019",
+   "title": "Lei nº 7.766, de 19 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1007",
+   "versions": [
+    {
+     "from": "2019-11-27",
+     "units": 8,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1007/lei_7766_executivo.pdf",
+     "sha256": "6e1aa6bbfb35c7260755405f8a77db00960ef6f8cc55354c9019f2d222367509"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07765",
+   "short": "Lei 7765/2019",
+   "title": "Lei nº 7.765, de 19 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1002",
+   "versions": [
+    {
+     "from": "2019-11-21",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1002/lei_7765.pdf",
+     "sha256": "34cfdc2c3c99fa3b41fd4f35a0fc81f026cd419a672fbab781dd453ff4aa7df7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07779",
+   "short": "Lei 7779/2019",
+   "title": "Lei nº 7.779, de 12 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1052",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1052/lei_7779.pdf",
+     "sha256": "81dce37915efb3fbd4c7df41cc9abd9cf6b4dd91459085512ddc20d1ed787e1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07764",
+   "short": "Lei 7764/2019",
+   "title": "Lei nº 7.764, de 12 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1019",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 17,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1019/lei_7764_executivo.pdf",
+     "sha256": "48d186bd632d6ab4235052a4af667d71903dbce7551d07b55ed4b94d33ab6062"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07758",
+   "short": "Lei 7758/2019",
+   "title": "Lei nº 7.758, de 5 de novembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/992",
+   "versions": [
+    {
+     "from": "2019-11-11",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/992/lei_7758.pdf",
+     "sha256": "905f041c8f7774f15867af0a5905403864ed88350c6a23641ffbbefdc05b9fea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07732",
+   "short": "Lei 7732/2019",
+   "title": "Lei nº 7.732, de 18 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/933",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/933/lei_7732_executivo_republicado.pdf",
+     "sha256": "c5e95ea1ab8ef9f4444c82f6c0525d69759a8b0a15ea01889a30523d7a88dfa6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07745",
+   "short": "Lei 7745/2019",
+   "title": "Lei nº 7.745, de 17 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/957",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/957/lei_7745.pdf",
+     "sha256": "b4efae71c4008cd8e3006871809139792ceb4b675a557f3bc5373f90a91c8262"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07747",
+   "short": "Lei 7747/2019",
+   "title": "Lei nº 7.747, de 15 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/958",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/958/lei_7747_executivo.pdf",
+     "sha256": "21d0765122f13c93ae4e2b29a1205cdd10999fb49d30e1bcec0a61a9f0af77d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07746",
+   "short": "Lei 7746/2019",
+   "title": "Lei nº 7.746, de 15 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/959",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 15,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/959/lei_7746_executivo.pdf",
+     "sha256": "6a71724eb520b38884c4dc4fd08f75025147edb4a419718cad2880fd2969f9ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07738",
+   "short": "Lei 7738/2019",
+   "title": "Lei nº 7.738, de 3 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/946",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/946/lei_7738.pdf",
+     "sha256": "f2ba8cedcdcbdea92f6f4c93a179e1fff1e63602063b0b24f61f017aeb0e81c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07737",
+   "short": "Lei 7737/2019",
+   "title": "Lei nº 7.737, de 3 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/945",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/945/lei_7737.pdf",
+     "sha256": "7e7a3b53cbc77835e40ef80fbb345da743ed4b9a47cb74d04ac92c36702cf5be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07736",
+   "short": "Lei 7736/2019",
+   "title": "Lei nº 7.736, de 3 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/944",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/944/lei_7736.pdf",
+     "sha256": "1178174136250856c7a11cf38d83e640d21599d618d708e614e5c0b60d6bdfed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07741",
+   "short": "Lei 7741/2019",
+   "title": "Lei nº 7.741, de 1 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/937",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/937/lei_7741_executivo.pdf",
+     "sha256": "a036d965ce882ee377c0df394533e7ebad9b0fd943cfb98c315d8ac6fc83feaa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07740",
+   "short": "Lei 7740/2019",
+   "title": "Lei nº 7.740, de 1 de outubro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/936",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/936/lei_7740_executivo.pdf",
+     "sha256": "0956bd6cfcc71908e4f30e8110997c770860170c2341f40598037ba53c5596c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07729",
+   "short": "Lei 7729/2019",
+   "title": "Lei nº 7.729, de 24 de setembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/923",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/923/lei_7729_executivo.pdf",
+     "sha256": "d83ce3782583b51fdd71cb43ad899ddb5878a19ef98e567a5eb7bb5abb2a6879"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07728",
+   "short": "Lei 7728/2019",
+   "title": "Lei nº 7.728, de 24 de setembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/922",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 22,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/922/lei_7728_executivo.pdf",
+     "sha256": "66d96bd10c0c09eb8451c4afbb9a74392ec3a3007035f7a31a1d64027490bb27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07757",
+   "short": "Lei 7757/2019",
+   "title": "Lei nº 7.757, de 10 de setembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/991",
+   "versions": [
+    {
+     "from": "2019-11-11",
+     "units": 19,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/991/lei_7757.pdf",
+     "sha256": "43e7a796ce3f82f67e3df5a120dbe56e97232182cc40dd71582ffc5f58eb5cd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07739",
+   "short": "Lei 7739/2019",
+   "title": "Lei nº 7.739, de 10 de setembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/947",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/947/lei_7739.pdf",
+     "sha256": "b3141d70aa83b5d2f4aea4249cbf9ce6e713b80821942ede7bbd3f2d10dd03be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07724",
+   "short": "Lei 7724/2019",
+   "title": "Lei nº 7.724, de 10 de setembro de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/905",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 27,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/905/lei_7724.pdf",
+     "sha256": "5375bed0079500f57b03b61d571a21855718daf341a5f58076bb52394e93e5f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07730",
+   "short": "Lei 7730/2019",
+   "title": "Lei nº 7.730, de 20 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/931",
+   "versions": [
+    {
+     "from": "2019-10-02",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/931/lei_7730.pdf",
+     "sha256": "40b651647ef978157ac3961f9459f4fd936814c6601459a395deec2a335da193"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07723",
+   "short": "Lei 7723/2019",
+   "title": "Lei nº 7.723, de 20 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/913",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/913/lei_7723.pdf",
+     "sha256": "28ac599a2aab28b1c28f529eb7712c8499d1d561619496e578267436d8e0bb71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07722",
+   "short": "Lei 7722/2019",
+   "title": "Lei nº 7.722, de 20 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/912",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/912/lei_7722.pdf",
+     "sha256": "23548e81ea6f768223f18e444a6111a2cd4089f541f31c1644c1a8edb4818ea5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07719",
+   "short": "Lei 7719/2019",
+   "title": "Lei nº 7.719, de 20 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/909",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/909/lei_7719.pdf",
+     "sha256": "f5545eddd07d4c140ac02136acd80ac1124f1e4c2bc64fe2841ab70b786a36b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07721",
+   "short": "Lei 7721/2019",
+   "title": "Lei nº 7.721, de 13 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/911",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/911/lei_7721.pdf",
+     "sha256": "66bfb5206b42b9da06e345e864c23ea679e92b44af9d2127c4b2f4c2fa73d6ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07720",
+   "short": "Lei 7720/2019",
+   "title": "Lei nº 7.720, de 13 de agosto de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/910",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/910/lei_7720.pdf",
+     "sha256": "79f8536e4f240e4f0ad57d75a0fe593723af3eca399014e3c1389091f5c89e4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07707",
+   "short": "Lei 7707/2019",
+   "title": "Lei nº 7.707, de 16 de julho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/863",
+   "versions": [
+    {
+     "from": "2019-07-19",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/863/lei_7707.pdf",
+     "sha256": "fbd704ebc83aabaa33674b8e547ae687216f5aa8baea7cace24b0394073451c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07708",
+   "short": "Lei 7708/2019",
+   "title": "Lei nº 7.708, de 9 de julho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/866",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 9,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/866/lei_7708_executivo.pdf",
+     "sha256": "6ca6f01926975db6eef4b922ec0c619701fafc23fb40c7946e11c084838a80ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07703",
+   "short": "Lei 7703/2019",
+   "title": "Lei nº 7.703, de 26 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/851",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/851/lei_7703-2019.pdf",
+     "sha256": "be026fe1e4f454ccce365bf9b1920e61110e7b318b6622a33e32987aba71089e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07702",
+   "short": "Lei 7702/2019",
+   "title": "Lei nº 7.702, de 26 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/850",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/850/lei_7702-2019.pdf",
+     "sha256": "1c813869481d7fece30d146d65fc99c2951e5fed80960ae31f8fb103b3eeec92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07701",
+   "short": "Lei 7701/2019",
+   "title": "Lei nº 7.701, de 26 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/849",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/849/lei_7701-2019.pdf",
+     "sha256": "9195eeefdd9752634c7327c2d71257ef15e041a366650ff171a2a6bcad02f4bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07700",
+   "short": "Lei 7700/2019",
+   "title": "Lei nº 7.700, de 26 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/864",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/864/lei_7700.pdf",
+     "sha256": "9d1d0361d73c845c68ba15a5e20ac0fd5cb17d92d0ed6bfa1c1a3067d651074a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07711",
+   "short": "Lei 7711/2019",
+   "title": "Lei nº 7.711, de 18 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/874",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/874/lei_7711.pdf",
+     "sha256": "a8bd48343838b2a1306a8d60e00f072ad60eb72122c816f8442dbaa569e1ba2c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07710",
+   "short": "Lei 7710/2019",
+   "title": "Lei nº 7.710, de 18 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/873",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/873/lei_7710.pdf",
+     "sha256": "d3d811fcff18536b467e9f888ebf732cad348ea18d94cd243a3c42a6b4673826"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07699",
+   "short": "Lei 7699/2019",
+   "title": "Lei nº 7.699, de 18 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/885",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/885/lei_7699.pdf",
+     "sha256": "09106caf2269aa1d3c0d1e3fa3d6d806a8e53f44f11b8dad0f0221a7657e6b78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07694",
+   "short": "Lei 7694/2019",
+   "title": "Lei nº 7.694, de 4 de junho de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/824",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/824/lei_7694.pdf",
+     "sha256": "dba661a7047347231b848f6d1976a9a442f054f3c9f375b4346742947b6b8d59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07691",
+   "short": "Lei 7691/2019",
+   "title": "Lei nº 7.691, de 14 de maio de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/794",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/794/lei_7691.pdf",
+     "sha256": "14b2dedc7f549232413155572fe1379b346da7996b229055666bba67ba59aa54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07690",
+   "short": "Lei 7690/2019",
+   "title": "Lei nº 7.690, de 14 de maio de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/793",
+   "versions": [
+    {
+     "from": "2019-05-14",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/793/lei_7690.pdf",
+     "sha256": "8510e55581445f20a3cc09d05850be2aa738ab2efdf6d2fb57f249910ec080ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07680",
+   "short": "Lei 7680/2019",
+   "title": "Lei nº 7.680, de 16 de abril de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/780",
+   "versions": [
+    {
+     "from": "2019-04-16",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/780/lei_7680.pdf",
+     "sha256": "bec737bcfcce95043cfcc2dfc3ad601853e88591d1cfe03e656e1f12de57956b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07679",
+   "short": "Lei 7679/2019",
+   "title": "Lei nº 7.679, de 2 de abril de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/791",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/791/lei_7679.pdf",
+     "sha256": "6931052de063e87b7be3ff7d37f85d73805cef8d94b442b8402b8c211ea3d9d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07678",
+   "short": "Lei 7678/2019",
+   "title": "Lei nº 7.678, de 2 de abril de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/790",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/790/lei_7678.pdf",
+     "sha256": "598cf3adf94e581cb4338317a94879c9b3570212487055823a8fb9e26e65c1da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07692",
+   "short": "Lei 7692/2019",
+   "title": "Lei nº 7.692, de 26 de março de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/807",
+   "versions": [
+    {
+     "from": "2019-05-27",
+     "units": 17,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/807/lei_7692_executivo.pdf",
+     "sha256": "4bddbb451c71aa0129affb6933637fa855f7371a112902cca7d6ab396ff065c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-07675",
+   "short": "Lei 7675/2019",
+   "title": "Lei nº 7.675, de 19 de março de 2019",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/785",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/785/lei_7675.pdf",
+     "sha256": "aa39379dcccb73a2743f1b6bfb9f6716d1a0292ed09def2f0887095288e8dc6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07664",
+   "short": "Lei 7664/2018",
+   "title": "Lei nº 7.664, de 27 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/717",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/717/7664.pdf",
+     "sha256": "bc9c02e9c837735259356c6f74f181ca8c0a0996cc877ff54f4b2e1ea300258f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07654",
+   "short": "Lei 7654/2018",
+   "title": "Lei nº 7.654, de 26 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/703",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 108,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/703/lei_7654.pdf",
+     "sha256": "329dbc63d5ad84e7a1f641300a33f2614353333e3b1c2895a5ed8b7705ccee9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07650",
+   "short": "Lei 7650/2018",
+   "title": "Lei nº 7.650, de 19 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/696",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 39,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/696/7650.pdf",
+     "sha256": "7ada270f0be9c18b7f9e616c6dd0eeb5021eea956667e152624879b37d5a534f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07647",
+   "short": "Lei 7647/2018",
+   "title": "Lei nº 7.647, de 19 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/705",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/705/lei_7647.pdf",
+     "sha256": "b14c8e7de17531621eced99fdafa016445cd777bfab2870243601f08608f8e45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07646",
+   "short": "Lei 7646/2018",
+   "title": "Lei nº 7.646, de 19 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/704",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/704/lei_7646.pdf",
+     "sha256": "f990536d6af48e0ca4c85f6279d10c48fa7a057cb73fbc450f140b2ea7fe71cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07644",
+   "short": "Lei 7644/2018",
+   "title": "Lei nº 7.644, de 18 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/689",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 8,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/689/7644.pdf",
+     "sha256": "706c6e124fb7f953051a450a868995dc85227bcc0bf7e451c6a6bc8e21fe4f76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07643",
+   "short": "Lei 7643/2018",
+   "title": "Lei nº 7.643, de 17 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/688",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 10,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/688/7643.pdf",
+     "sha256": "06f5943c9135d0ba22b054c86bc9bb27eb72fdb1eccd768a206b50ba1dd20746"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07642",
+   "short": "Lei 7642/2018",
+   "title": "Lei nº 7.642, de 14 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/687",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/687/7642.pdf",
+     "sha256": "ff78ed8acd3efa7ab97d623567c42e7983978f4c086e0dca838fed90a6bffd19"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07640",
+   "short": "Lei 7640/2018",
+   "title": "Lei nº 7.640, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/680",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/680/7640.pdf",
+     "sha256": "e60cc63d7a80444fafb9ce453791149ffa92cac3554bd09fba33032bab4e9e9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07639",
+   "short": "Lei 7639/2018",
+   "title": "Lei nº 7.639, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/679",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/679/7639.pdf",
+     "sha256": "84f6e1c8545a5a970ca0f3ff563e8465de598019e21e936a8320fef479b2da01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07638",
+   "short": "Lei 7638/2018",
+   "title": "Lei nº 7.638, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/678",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/678/7638.pdf",
+     "sha256": "ce111423980398bcad7275137ebcfe83bb1d84e8866253ea03058254655897a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07637",
+   "short": "Lei 7637/2018",
+   "title": "Lei nº 7.637, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/677",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/677/7637.pdf",
+     "sha256": "ef0e5cb01e8cdd87b06b4f0a6231a9a4e74d567f5d53365c0341b00ee37162b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07636",
+   "short": "Lei 7636/2018",
+   "title": "Lei nº 7.636, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/676",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/676/7636.pdf",
+     "sha256": "e630907774ecf548cdc89524ad16d469c6edbe9e009df7fa2404e526853514ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07635",
+   "short": "Lei 7635/2018",
+   "title": "Lei nº 7.635, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/675",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/675/7635.pdf",
+     "sha256": "bf2e68fc597c8d43fb2c92388787803f4d847e6c125bc89b92dbbec5700ed76b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07634",
+   "short": "Lei 7634/2018",
+   "title": "Lei nº 7.634, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/674",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/674/7634.pdf",
+     "sha256": "48459f8a955c88bd969a7348e47425d520039ffc2ff3d4dbdc4536a1a7eb70b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07633",
+   "short": "Lei 7633/2018",
+   "title": "Lei nº 7.633, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/673",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/673/7633.pdf",
+     "sha256": "1a41240ba9742e082960737a93281f1814543a944c7bcba4ed7ae6e73619e66c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07632",
+   "short": "Lei 7632/2018",
+   "title": "Lei nº 7.632, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/672",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/672/7632.pdf",
+     "sha256": "6636fc25e6d3cde664a352e99fbccaf3e2f0e8ab4f1d2aab076ab3265ea481aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07631",
+   "short": "Lei 7631/2018",
+   "title": "Lei nº 7.631, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/671",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/671/7631.pdf",
+     "sha256": "7166556d9ee6a6f1f80a0aca970212fb00306ff1f8fa9fae864e45d99e0b5d88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07630",
+   "short": "Lei 7630/2018",
+   "title": "Lei nº 7.630, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/670",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/670/7630.pdf",
+     "sha256": "f1b9bebb78a740e5d87198b73de2bbf2bb876c83c75b2fb16bd5d35942bae225"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07629",
+   "short": "Lei 7629/2018",
+   "title": "Lei nº 7.629, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/669",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/669/7629.pdf",
+     "sha256": "469b5f78113b5d282976cd19cb394cf0c5057563c845f9c58981f4c94b824b5b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07628",
+   "short": "Lei 7628/2018",
+   "title": "Lei nº 7.628, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/668",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/668/7628.pdf",
+     "sha256": "c7b9937ea1bf5ddd89a77a2c4549a89d01124810adb384d8aaf00f731819e1e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07627",
+   "short": "Lei 7627/2018",
+   "title": "Lei nº 7.627, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/667",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/667/7627.pdf",
+     "sha256": "e6b5c89c5ce4abc41a4b18c72a739ee62eaaacae614677eaca935f2fbf4c398c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07626",
+   "short": "Lei 7626/2018",
+   "title": "Lei nº 7.626, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/666",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/666/7626.pdf",
+     "sha256": "57838b48ef6215b7dbd813a8c9b5f83689dce7c0d086e282d6c212f99c41adb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07625",
+   "short": "Lei 7625/2018",
+   "title": "Lei nº 7.625, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/665",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/665/7625.pdf",
+     "sha256": "4d01de244986287c9da994fa74cedeca932bd25539c8b43f2e6b67378a7276e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07624",
+   "short": "Lei 7624/2018",
+   "title": "Lei nº 7.624, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/664",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/664/7624.pdf",
+     "sha256": "bddfa7426d7331b3005668ae2f27bd2ec301633db69d65bddf13631364f6c56b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07623",
+   "short": "Lei 7623/2018",
+   "title": "Lei nº 7.623, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/663",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/663/7623.pdf",
+     "sha256": "73ba506c8e820aea67e02b5d85014c8c233fac1cc4cd64f6445593b6a815b6eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07622",
+   "short": "Lei 7622/2018",
+   "title": "Lei nº 7.622, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/662",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/662/7622.pdf",
+     "sha256": "137ad594da84b97f099a576fe1482046c637e585c7f490c57421920902e5ccce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07621",
+   "short": "Lei 7621/2018",
+   "title": "Lei nº 7.621, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/660",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/660/7621.pdf",
+     "sha256": "5e1fef19bd53ab7115d04e66616a5ea8f4ce94e8d79e4ba4e9c36729ce65b3f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07620",
+   "short": "Lei 7620/2018",
+   "title": "Lei nº 7.620, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/659",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/659/7620.pdf",
+     "sha256": "05ade0bd9f6368f77c5a24840b4c05d57ee80c6cee4bd47f870ec148fe1743a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07619",
+   "short": "Lei 7619/2018",
+   "title": "Lei nº 7.619, de 6 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/658",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/658/7619.pdf",
+     "sha256": "b572642198e8b4c5793b51fdee455dc03a95d39fdd4088424b04ce32b0476ba4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07618",
+   "short": "Lei 7618/2018",
+   "title": "Lei nº 7.618, de 5 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/594",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/594/lei_7618.pdf",
+     "sha256": "0d8c2e47e6d8560082c0a250817262a94abdd138c9c2fd8350da876dc8227ac5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07617",
+   "short": "Lei 7617/2018",
+   "title": "Lei nº 7.617, de 5 de dezembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/593",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/593/lei_7617.pdf",
+     "sha256": "1617bd38d076d72534fe8a14a4d3909d5e8fc63f0c05f755f51c92a690b7501e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07612",
+   "short": "Lei 7612/2018",
+   "title": "Lei nº 7.612, de 28 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/586",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/586/lei_7612.pdf",
+     "sha256": "c56775efcaa99aa8f557b93c0148f37814e139e06d25532ec147856829a9364d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07611",
+   "short": "Lei 7611/2018",
+   "title": "Lei nº 7.611, de 22 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/581",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/581/lei_7611.pdf",
+     "sha256": "b480ad69c9bee4b89b81e92936a709c1e0d3fbbc159d79ede315a454a270fb9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07610",
+   "short": "Lei 7610/2018",
+   "title": "Lei nº 7.610, de 22 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/584",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/584/lei_7610.pdf",
+     "sha256": "29c36df2ba121460db06648e4718ebe68479a04ef1c2f12e633156b06339619f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07609",
+   "short": "Lei 7609/2018",
+   "title": "Lei nº 7.609, de 22 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/583",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/583/lei_7609.pdf",
+     "sha256": "b497e16006f0bf19493793aac6bb9655e410b9942f6c2ad89c566160cef2a047"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07603",
+   "short": "Lei 7603/2018",
+   "title": "Lei nº 7.603, de 16 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/588",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/588/lei_7603.pdf",
+     "sha256": "6c149fe65ce52176576f7a125ac6a68f16450d9b446d75c4cd6ed7c9139a838b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07602",
+   "short": "Lei 7602/2018",
+   "title": "Lei nº 7.602, de 16 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/579",
+   "versions": [
+    {
+     "from": "2018-11-16",
+     "units": 12,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/579/lei_7602.pdf",
+     "sha256": "3506193eef85992e07359a938034070e0d587f153dbb720a52b479974d5d696a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07601",
+   "short": "Lei 7601/2018",
+   "title": "Lei nº 7.601, de 5 de novembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/576",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/576/576_texto_integral.pdf",
+     "sha256": "6a6b882402122a1636baa7440b013c097df342e32f54b46972b9086b1023be99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07595",
+   "short": "Lei 7595/2018",
+   "title": "Lei nº 7.595, de 5 de outubro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/573",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 8,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/573/573_texto_integral.pdf",
+     "sha256": "1b39c8a87f0a9b654adf87609fb1c88ec44c28707b02bb2ac54c3a033c33a289"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07587",
+   "short": "Lei 7587/2018",
+   "title": "Lei nº 7.587, de 11 de setembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/561",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/561/561_texto_integral.pdf",
+     "sha256": "4376c46457f012979321d4edc4ca9686a6026625f875fc247ae3480f08d69b6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07586",
+   "short": "Lei 7586/2018",
+   "title": "Lei nº 7.586, de 11 de setembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/560",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/560/560_texto_integral.pdf",
+     "sha256": "4f712fa351a2c6f16f048aa25266c4c360d0595a2cdffc635117186e5600879f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07585",
+   "short": "Lei 7585/2018",
+   "title": "Lei nº 7.585, de 11 de setembro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/559",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 4,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/559/559_texto_integral.pdf",
+     "sha256": "77e73d6b9eb977b523114f24e000102181856b24342120308cd0902cfedd67b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07578",
+   "short": "Lei 7578/2018",
+   "title": "Lei nº 7.578, de 22 de agosto de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/557",
+   "versions": [
+    {
+     "from": "2018-08-23",
+     "units": 15,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/557/557_texto_integral.pdf",
+     "sha256": "b94143fa3cc1bb7a7f7004b7afdf07bccf5dc4bf11165bba84d439d539f564c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07577",
+   "short": "Lei 7577/2018",
+   "title": "Lei nº 7.577, de 7 de agosto de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/556",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 12,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/556/556_texto_integral.pdf",
+     "sha256": "9545cf84d17391a5663592003c07e3c5af46e1d3ff10249d7221461bcd71ea0f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07575",
+   "short": "Lei 7575/2018",
+   "title": "Lei nº 7.575, de 13 de julho de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/525",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/525/525_texto_integral.pdf",
+     "sha256": "074dd3ffa16551946545eaf0d9fe3d432e4bac5a955a3fffce4196fd65f3f4ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07573",
+   "short": "Lei 7573/2018",
+   "title": "Lei nº 7.573, de 9 de julho de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/523",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/523/523_texto_integral.pdf",
+     "sha256": "0e82bf6068c7794c23b9e41b19f7d0e7a4eb4366d862941f217242d0f82da0a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07572",
+   "short": "Lei 7572/2018",
+   "title": "Lei nº 7.572, de 9 de julho de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/536",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/536/536_texto_integral.pdf",
+     "sha256": "682ac730bed9e0550c4d793a213fb708916c87c98310f3f1476ee5db6479a02e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07571",
+   "short": "Lei 7571/2018",
+   "title": "Lei nº 7.571, de 9 de julho de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/529",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/529/529_texto_integral.pdf",
+     "sha256": "7907e2301dc9bb0c208e4fac00870acb860da36e74371a8c37d84618b1f2928f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07570",
+   "short": "Lei 7570/2018",
+   "title": "Lei nº 7.570, de 26 de junho de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/521",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 10,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/521/521_texto_integral.pdf",
+     "sha256": "e4fdbd01add94e2396e501c3bf255176ff28283b67f4c051087f00dce9202989"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07569",
+   "short": "Lei 7569/2018",
+   "title": "Lei nº 7.569, de 24 de maio de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/530",
+   "versions": [
+    {
+     "from": "2018-06-04",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/530/530_texto_integral.pdf",
+     "sha256": "371bf91a90405d0925837ab741f25fbdb9ed080edc33297e8536ace7dae6a1ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07559",
+   "short": "Lei 7559/2018",
+   "title": "Lei nº 7.559, de 25 de abril de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/535",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 9,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/535/535_texto_integral.pdf",
+     "sha256": "4cc5721d8455319c1d4358445a9eb099c082fb7f33544f4fef61db667b2dc9fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07558",
+   "short": "Lei 7558/2018",
+   "title": "Lei nº 7.558, de 16 de abril de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/526",
+   "versions": [
+    {
+     "from": "2018-04-24",
+     "units": 11,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/526/526_texto_integral.pdf",
+     "sha256": "51f8bf577798f13a8e52421afc1b84b9b7f8db08c69f7c63740868691614e0de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07554",
+   "short": "Lei 7554/2018",
+   "title": "Lei nº 7.554, de 20 de março de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/488",
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/488/488_texto_integral.pdf",
+     "sha256": "a59889bc343645fca64af3e5b1089a4819bb6fdb6f97a8e7b4f51156dd595302"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07552",
+   "short": "Lei 7552/2018",
+   "title": "Lei nº 7.552, de 17 de fevereiro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/486",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/486/486_texto_integral.pdf",
+     "sha256": "948b094a3a783ec62b76ca9a2808b5f9329a688edd28ac9b1313039c619a9369"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07553",
+   "short": "Lei 7553/2018",
+   "title": "Lei nº 7.553, de 15 de fevereiro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/487",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/487/487_texto_integral.pdf",
+     "sha256": "9965b55712cd5a3c1deeacc6d873c1399e7a235fc69fb8100780489b1905e92d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07551",
+   "short": "Lei 7551/2018",
+   "title": "Lei nº 7.551, de 15 de fevereiro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/485",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/485/485_texto_integral.pdf",
+     "sha256": "e9d9ff2e2245355482a2a3ed18ff08fa7581bb0be91d3d281c313bf8ae186173"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07550",
+   "short": "Lei 7550/2018",
+   "title": "Lei nº 7.550, de 15 de fevereiro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/484",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/484/484_texto_integral.pdf",
+     "sha256": "d0aa7e184b9eee4b41a42e4b3c69feb5417bc6d07d0948ff0ae83f6c5d4690a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-07544",
+   "short": "Lei 7544/2018",
+   "title": "Lei nº 7.544, de 15 de fevereiro de 2018",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/478",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2018/478/478_texto_integral.pdf",
+     "sha256": "fd3454eb4c47c4280a87d60cc137533b252a83b3ad21a6d95aed8b7101f3101e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07542",
+   "short": "Lei 7542/2017",
+   "title": "Lei nº 7.542, de 28 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/470",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/470/470_texto_integral.pdf",
+     "sha256": "1c2e93fc79317b0dffcdbbd68fe0355ad1776ac6d851129bb52f7bd4ab296af5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07554",
+   "short": "Lei 7554/2017",
+   "title": "Lei nº 7.554, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/656",
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 7,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/656/lei_7554.pdf",
+     "sha256": "c1396298c718af0bdb1f9c722f1afb08d748d4621f5c101bec489372aacbd7a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07553",
+   "short": "Lei 7553/2017",
+   "title": "Lei nº 7.553, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/652",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/652/lei_7553.pdf",
+     "sha256": "c180d0add0edc70f391b46a8812bb3f085481d2ea1c168aaeeb200e3568d6a26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07552",
+   "short": "Lei 7552/2017",
+   "title": "Lei nº 7.552, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/651",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/651/lei_7552.pdf",
+     "sha256": "ad441b7e278ab0fda1a1bb00d539cc570ea4577bfbf50a472910172417fc0923"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07551",
+   "short": "Lei 7551/2017",
+   "title": "Lei nº 7.551, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/649",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/649/lei_7551.pdf",
+     "sha256": "e1b39af435f033c06f8a1dfbc804976453d10a26992014cf415b68a16259977e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07550",
+   "short": "Lei 7550/2017",
+   "title": "Lei nº 7.550, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/650",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 6,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/650/lei_7550.pdf",
+     "sha256": "6d04a976bcc9dc29308b5c75ee2deba4ed33ad9ce3fcd123915f735c32e0c587"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07541",
+   "short": "Lei 7541/2017",
+   "title": "Lei nº 7.541, de 19 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/643",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/643/7541.pdf",
+     "sha256": "6984fcfdd5c1f31a252d786df4de8f778c7431d87790620a7c5fc75af61db952"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-07520",
+   "short": "Lei 7520/2017",
+   "title": "Lei nº 7.520, de 13 de dezembro de 2017",
+   "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/554",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 3,
+     "source_url": "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2017/554/554_texto_integral.pdf",
+     "sha256": "611d13faed71964ab3323d5ea3531a43398a60d95cc554b4a1cff7f93f66ee45"
+    }
+   ]
+  }
+ ]
+}

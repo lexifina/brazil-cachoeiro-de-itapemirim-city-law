@@ -1,0 +1,9 @@
+{
+  "path": "br-es-cachoeiro-de-itapemirim",
+  "code": "BR-ES-CACHOEIRO-DE-ITAPEMIRIM",
+  "name": "Cachoeiro de Itapemirim (city)",
+  "level": "municipality",
+  "parent": "br-es",
+  "repo": "https://github.com/lexifina/brazil-cachoeiro-de-itapemirim-city-law",
+  "build": "built: the law of Cachoeiro de Itapemirim from the Câmara Municipal's SAPL"
+}
