@@ -1,5 +1,7 @@
 # Cachoeiro de Itapemirim (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Cachoeiro de Itapemirim, Espirito Santo, Brazil, which global-law reads at `brazil/espirito-santo/cachoeiro-de-itapemirim/acts/`.
+
 The municipal law of the Município de Cachoeiro de Itapemirim, Espírito Santo (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
